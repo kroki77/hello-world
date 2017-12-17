@@ -1,2 +1,3 @@
 # hello-world
-my first repository created on december 2017
+
+I would like to learn the GitHub!
